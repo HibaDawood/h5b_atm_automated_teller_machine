@@ -1,0 +1,29 @@
+{
+  "name": "h5b_automatic_teller_machine",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+  "Automated Teller Machine",
+  "Cash withdrawal",
+  "PIN (Personal Identification Number)",
+  "Transaction",
+  "Balance inquiry",
+  "ATM network",
+  "ATM location",
+  "Cardless transactions",
+  "Daily withdrawal limit"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
