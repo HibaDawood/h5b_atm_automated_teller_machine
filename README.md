@@ -5,7 +5,6 @@ This is Automatic teller machine.
 
 
 <p align="left"> <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/5b/ad/f7/5badf72a895a0a9d6ff371ef364d56af.gif" alt="hibadawood" /> </p>
-
 - 🔭 I’m currently working on [100-days-of-coding](https://github.com/HibaDawood)
 
 - 🌱 I’m currently learning **cloud Applied generative AI**
