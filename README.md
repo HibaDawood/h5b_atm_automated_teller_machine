@@ -4,7 +4,7 @@ This is Automatic teller machine.
 <h3 align="center">A passionate full-stack developer from Pakistan.</h3>
 
 
-<p align="left"> <img align="right" alt="coding" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAoTJjowRE6qWDsYQUKreaDKJCB0hDKtUBCQ&usqp=CAU" alt="hibadawood" /> </p>
+<p align="left"> <img align="right" alt="coding" width="350" src="https://giphy.com/gifs/creative-courage-atm-machine-youve-got-biden-bucks-AD6b36IJuiA231oYgh" alt="hibadawood" /> </p>
 
 - 🔭 I’m currently working on [100-days-of-coding](https://github.com/HibaDawood)
 
