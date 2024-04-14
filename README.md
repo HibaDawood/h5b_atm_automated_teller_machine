@@ -1,4 +1,4 @@
-# h5b_automatic_teller_machine
+# h5b_atm_automated_teller_machine
 This is Automatic teller machine.
 <h1 align="center">Hi 👋, I'm Hiba M.Dawood</h1>
 <h3 align="center">A passionate full-stack developer from Pakistan.</h3>
